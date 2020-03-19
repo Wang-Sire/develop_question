@@ -1,4 +1,4 @@
-##django_question - DRF    
+## - DRF - Question    
     Got AttributeError when attempting to get a value for field `robot_chinaese` on serializer `RobotListSerializer`.
     The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
 Original exception text was: 'QuerySet' object has no attribute 'robot_chinaese'. ---------
